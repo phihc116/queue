@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\queue\\queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|solutionrelative:queue\\queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
+              "RelativeDocumentMoniker": "Queue\\Queue.csproj",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
+              "RelativeToolTip": "Queue\\Queue.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T23:03:43.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-08T21:42:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-08T21:42:41.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

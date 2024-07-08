@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  queue:
+    image: ${DOCKER_REGISTRY-}queue
+    build:
+      context: Queue
+      dockerfile: Dockerfile
