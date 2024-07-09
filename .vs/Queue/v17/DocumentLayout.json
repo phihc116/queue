@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\",
+  "WorkspaceRootPath": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\queue\\queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|c:\\development\\others\\learning\\dev-environment\\src\\queue\\queue\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|solutionrelative:queue\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|c:\\development\\others\\learning\\dev-environment\\src\\queue\\queue\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|solutionrelative:queue\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|c:\\development\\others\\learning\\dev-environment\\src\\queue\\queue\\queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B4185A56-C0C2-47F0-8646-20BF4A2FCE36}|Queue\\Queue.csproj|solutionrelative:queue\\queue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|c:\\development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3282B2B5-9428-41FC-A79F-D95A21EA02B1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -31,10 +39,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Queue",
-              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\.gitignore",
+              "RelativeDocumentMoniker": "Queue\\.gitignore",
+              "ToolTip": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\.gitignore",
+              "RelativeToolTip": "Queue\\.gitignore",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-09T03:47:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Queue\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Queue\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:45:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.csproj",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
               "RelativeDocumentMoniker": "Queue\\Queue.csproj",
-              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
+              "ToolTip": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\Queue\\Queue.csproj",
               "RelativeToolTip": "Queue\\Queue.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -43,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.override.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.override.yml",
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
@@ -55,16 +89,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Development\\others\\learning\\sub-module\\dev-environment\\src\\queue\\docker-compose.yml",
+              "ToolTip": "C:\\Development\\others\\learning\\dev-environment\\src\\queue\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-07-08T21:42:41.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T21:42:41.194Z"
             }
           ]
         }
